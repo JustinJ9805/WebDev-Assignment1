@@ -28,8 +28,8 @@ Git requirements (must follow feature branch workflow):
 [X]Never make changes directly on the main branch 
 [X]Open pull requests before merging feature branches
 [X]Delete branches after merging
-[]Deploy to GitHub pages
-[]Put a link to the deployed site in README
+[X]Deploy to GitHub pages
+[X]Put a link to the deployed site in README
 [X]Have branch protection for main branch (I should not be able to directly commit to your main branch)
 
 This assignment is to be completed individually.
